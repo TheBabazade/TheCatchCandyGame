@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var kenny7: UIImageView!
     @IBOutlet weak var kenny8: UIImageView!
     @IBOutlet weak var kenny9: UIImageView!
-    
+          
           
     override func viewDidLoad() {
         super.viewDidLoad()
