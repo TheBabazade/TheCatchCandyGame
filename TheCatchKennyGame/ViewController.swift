@@ -30,7 +30,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var kenny8: UIImageView!
     @IBOutlet weak var kenny9: UIImageView!
     
-    
+          
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -44,7 +44,7 @@ class ViewController: UIViewController {
             highScore = newScore
             hightScoreLabel.text = "Highscore: \(highScore)"
         }
-
+    
         
         
         
